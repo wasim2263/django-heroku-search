@@ -1,0 +1,58 @@
+[
+  {
+    "model": "developersearch.programminglanguage",
+    "pk": 1,
+    "fields": {
+      "name": "java"
+    }
+  },
+  {
+    "model": "developersearch.programminglanguage",
+    "pk": 2,
+    "fields": {
+      "name": "python"
+    }
+  },
+  {
+    "model": "developersearch.programminglanguage",
+    "pk": 3,
+    "fields": {
+      "name": "php"
+    }
+  },
+  {
+    "model": "developersearch.programminglanguage",
+    "pk": 4,
+    "fields": {
+      "name": "ruby"
+    }
+  },
+  {
+    "model": "developersearch.programminglanguage",
+    "pk": 5,
+    "fields": {
+      "name": "kotlin"
+    }
+  },
+  {
+    "model": "developersearch.language",
+    "pk": 1,
+    "fields": {
+      "code": "pt"
+    }
+  },
+  {
+    "model": "developersearch.language",
+    "pk": 2,
+    "fields": {
+      "code": "en"
+    }
+  },
+  {
+    "model": "developersearch.language",
+    "pk": 3,
+    "fields": {
+      "code": "jp"
+    }
+  }
+]
